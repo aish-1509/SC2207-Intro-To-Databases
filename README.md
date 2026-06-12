@@ -1,3 +1,18 @@
-# SC2207-Intro-To-Databases
+# SC2207 Database Design and SQL
 
-These are the .sql code for creating our database as well as the code for the seven queries for our database dry run. Note that 2 surprise queries will be given during the demo session.
+SQL deliverables from an NTU **SC2207 Introduction to Databases** team exercise.
+
+## Scope
+
+The repository contains:
+
+- schema and table-creation SQL;
+- the prepared query set used for the database dry run; and
+- supporting material for the course demonstration.
+
+The exercise focuses on translating a domain model into relational structures and answering application questions through SQL.
+
+## Provenance
+
+This is a preserved fork of the team repository. Its default-branch history belongs to the upstream authors, so it is presented as course and collaboration context rather than an independently authored Aishwarya Anand project.
+
